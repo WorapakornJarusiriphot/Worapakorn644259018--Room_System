@@ -1,0 +1,78 @@
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.csproj.AssemblyReference.cache
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.ManageReservationsForm.resources
+D:\Hotel_System\Hotel_System\obj\Debug\Hotel_System.Properties.Resources.resources
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.csproj.GenerateResource.cache
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.csproj.CoreCompileInputs.cache
+D:\Hotel_System\Hotel_System\obj\Debug\Hotel_System.exe
+D:\Hotel_System\Hotel_System\obj\Debug\Hotel_System.pdb
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.ManageClientsForm.resources
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.LoginForm.resources
+D:\Hotel_System\Hotel_System\bin\Debug\Hotel_System.exe.config
+D:\Hotel_System\Hotel_System\bin\Debug\Hotel_System.exe
+D:\Hotel_System\Hotel_System\bin\Debug\Hotel_System.pdb
+D:\Hotel_System\Hotel_System\bin\Debug\System.Memory.dll
+D:\Hotel_System\Hotel_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hotel_System\Hotel_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Hotel_System\Hotel_System\bin\Debug\System.Buffers.dll
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.MainForm.resources
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.ManageRoomsForm.resources
+D:\Hotel_System\Hotel_System\obj\Debug\Room_System.csproj.CopyComplete
+D:\Room_System\Room_System\bin\Debug\Room_System.exe.config
+D:\Room_System\Room_System\bin\Debug\Room_System.exe
+D:\Room_System\Room_System\bin\Debug\Room_System.pdb
+D:\Room_System\Room_System\bin\Debug\System.Memory.dll
+D:\Room_System\Room_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Room_System\Room_System\bin\Debug\System.Numerics.Vectors.dll
+D:\Room_System\Room_System\bin\Debug\System.Buffers.dll
+D:\Room_System\Room_System\obj\Debug\Room_System.csproj.AssemblyReference.cache
+D:\Room_System\Room_System\obj\Debug\Room_System.LoginForm.resources
+D:\Room_System\Room_System\obj\Debug\Room_System.MainForm.resources
+D:\Room_System\Room_System\obj\Debug\Room_System.ManageClientsForm.resources
+D:\Room_System\Room_System\obj\Debug\Room_System.ManageReservationsForm.resources
+D:\Room_System\Room_System\obj\Debug\Room_System.ManageRoomsForm.resources
+D:\Room_System\Room_System\obj\Debug\Room_System.Properties.Resources.resources
+D:\Room_System\Room_System\obj\Debug\Room_System.csproj.GenerateResource.cache
+D:\Room_System\Room_System\obj\Debug\Room_System.csproj.CoreCompileInputs.cache
+D:\Room_System\Room_System\obj\Debug\Room_System.csproj.CopyComplete
+D:\Room_System\Room_System\obj\Debug\Room_System.exe
+D:\Room_System\Room_System\obj\Debug\Room_System.pdb
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\bin\Debug\Room_System.exe.config
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\bin\Debug\Room_System.exe
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\bin\Debug\Room_System.pdb
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\bin\Debug\MySql.Data.dll
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\bin\Debug\System.Memory.dll
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\bin\Debug\System.Numerics.Vectors.dll
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\bin\Debug\System.Buffers.dll
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.csproj.AssemblyReference.cache
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.LoginForm.resources
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.MainForm.resources
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.ManageClientsForm.resources
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.ManageReservationsForm.resources
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.ManageRoomsForm.resources
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.Properties.Resources.resources
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.csproj.GenerateResource.cache
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.csproj.CoreCompileInputs.cache
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.csproj.CopyComplete
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.exe
+D:\งานมหาลัย\ปี 3 เทอม 1\การเขียนโปรแกรมแบบวิชวล\งาน\งานที่8 โปรเจ็กต์พัฒนาแอปพลิเคชันระบบจัดการฐานข้อมูล\Room_System\Room_System\obj\Debug\Room_System.pdb
+D:\test2\Room_System\bin\Debug\Room_System.exe.config
+D:\test2\Room_System\bin\Debug\Room_System.exe
+D:\test2\Room_System\bin\Debug\Room_System.pdb
+D:\test2\Room_System\bin\Debug\MySql.Data.dll
+D:\test2\Room_System\bin\Debug\System.Memory.dll
+D:\test2\Room_System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\test2\Room_System\bin\Debug\System.Numerics.Vectors.dll
+D:\test2\Room_System\bin\Debug\System.Buffers.dll
+D:\test2\Room_System\obj\Debug\Room_System.csproj.AssemblyReference.cache
+D:\test2\Room_System\obj\Debug\Room_System.LoginForm.resources
+D:\test2\Room_System\obj\Debug\Room_System.MainForm.resources
+D:\test2\Room_System\obj\Debug\Room_System.ManageClientsForm.resources
+D:\test2\Room_System\obj\Debug\Room_System.ManageReservationsForm.resources
+D:\test2\Room_System\obj\Debug\Room_System.ManageRoomsForm.resources
+D:\test2\Room_System\obj\Debug\Room_System.Properties.Resources.resources
+D:\test2\Room_System\obj\Debug\Room_System.csproj.GenerateResource.cache
+D:\test2\Room_System\obj\Debug\Room_System.csproj.CoreCompileInputs.cache
+D:\test2\Room_System\obj\Debug\Room_System.csproj.CopyComplete
+D:\test2\Room_System\obj\Debug\Room_System.exe
+D:\test2\Room_System\obj\Debug\Room_System.pdb

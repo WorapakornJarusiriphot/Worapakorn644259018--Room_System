@@ -1,0 +1,91 @@
+ManageClientsForm ระบบจัดการลูกค้า
+Manage Clients :จัดการลูกค้า
+ID: รหัส:
+First Name: ชื่อ:
+Last Name: สกุล:
+Phone No: เบอร์ติดต่อ:
+Country: อื่นๆ:
+
+Add New Client เพิ่มรายการ
+Edit แก้ไข
+Remove ลบ
+Clear Fields เริ่มรายการ
+
+ระบบจัดการห้อง
+Manage Rooms จัดการห้อง
+Room No:รหัสห้อง:
+Room Type: ชนิดห้อง:
+Phone No:เบอร์ติดต่อ:
+FREE:ว่าง:
+Add New Room เพิ่มรายการ
+Edit แก้ไข
+Remove ลบ
+Clear Fields เริ่มรายการ
+YES ใช่
+NO ไม่
+
+ManageReservationsForm ระบบจัดการจองห้อง
+Manage Reservations จัดการจองห้อง
+Reserv ID:รหัสการจอง:
+Client ID:รหัสผู้จอง:
+Room Type:ชนิดห้อง:
+Room No:รหัสห้อง:
+Date In:วันที่เข้า:
+Date Out:วันที่ออก:
+Make Reservations เพิ่มรายการ
+Edit แก้ไข
+Remove ลบ
+Clear Fields เริ่มรายการ
+
+The Date must be Greater Or Equal than Current Date
+วันที่เข้าต้องมากกว่าวันที่ปัจจุบัน
+Invalid Date In
+วันที่เข้าใส่ผิด
+Invalid Date Out
+วันที่ออกใส่ผิด
+The DateOut must be Greater Or Equal than DateIn
+วันที่ออกต้องมากกว่าหรือเท่ากับวันที่เข้า
+Reservation made successfully!
+การจองสำเร็จแล้ว!
+ERROR - Reservation not added!
+ข้อผิดพลาด - เพิ่มการจองไม่ได้!
+Make Reservation error
+การเพิ่มรายการจองผิดพลาด
+Make Reservation
+การเพิ่มรายการ
+Reservation data updated!
+แก้ไขการจองเสร็จแล้ว!
+Edit Reservation
+แก้ไขการจอง
+ERROR - Reservation not updated!
+ข้อผิดพลาด - แก้ไขการจองไม่ได้!
+
+
+
+Edit Reservation error
+การแก้ไขการจองผิดพลาด
+Reservation deleted successfully!
+ลบการจองเรียบร้อยแล้ว!
+Reservation Delete
+ลบการจอง
+ERROR - Reservation not deleted!
+ข้อผิดพลาด - ลบการจองไม่ได้!
+Delete reservation error
+การลบการจองผิดพลาด
+
+
+
+
+Login Form ระบบลงชื่อผู้ใช้งาน
+Sign In ลงชื่อผู้ใช้:
+Username:ชื่อผู้ใช้:
+Password:รห้สผ่าน:
+LOGIN ลงชื่อเข้าสู่ระบบ
+
+Manage Clients จัดการลูกค้า
+Manage Rooms จัดการห้อง
+Manage Reservations จัดการจองห้อง
+MainFormระบบการจองห้อง
+
+namespace Hotel_System
+namespace Room_System
